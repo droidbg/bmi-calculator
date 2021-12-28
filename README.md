@@ -25,5 +25,5 @@ We have made a Body Mass Index Calculator inspired by the beautiful designs made
 - Understand the difference between const and final in Dart and when to use each.
 
 >This app is built with the help of Angela Yu, and is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
+![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
